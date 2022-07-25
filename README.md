@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Alice 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm Alice 👋🏼 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&vCenter=true&height=30&lines=Frontend+developer+from+Siberia+)](https://git.io/typing-svg)
 
@@ -8,8 +7,8 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning React, React Native 
 - 📫 How to reach me: alicesShark@gmail.com
-- 🌍 I speak Russian (native), English (A2)
-- ⚡ Fun fact: ...
+- 🌍 I speak English (A2), Russian (native)
+- ⚡ Fun fact: When I'm nostalgic, I play Heroes III 🧙🏻‍♂️
 
 <h3>Skills:</h3>
 <p>
@@ -96,5 +95,4 @@
 </a> 
 </p>
 
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
