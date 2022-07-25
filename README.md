@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&vCenter=true&height=30&lines=Frontend+developer+from+Siberia+)](https://git.io/typing-svg)
 
-[![codewars](https://www.codewars.com/users/TatyanaFox/badges/small)](https://www.codewars.com/users/TatyanaFox)   
+[![codewars](https://www.codewars.com/users/AlicesShark/badges/small)](https://www.codewars.com/users/TatyanaFox)   
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning React, React Native 
