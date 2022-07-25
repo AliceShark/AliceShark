@@ -95,4 +95,6 @@
 </a> 
 </p>
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<p align="right">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
