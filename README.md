@@ -4,7 +4,7 @@
 
 [![codewars](https://www.codewars.com/users/AlicesShark/badges/small)](https://www.codewars.com/users/TatyanaFox)   
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my pet-projects
 - 🌱 I’m currently learning React, React Native 
 - 📫 How to reach me: alicesShark@gmail.com
 - 🌍 I speak English (A2), Russian (native)
