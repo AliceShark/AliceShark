@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my pet-projects
 - 🌱 I’m currently learning React, React Native 
 - 📫 How to reach me: alicesShark@gmail.com
-- 🌍 I speak English (A2), Russian (native)
+- 🌍 I speak English (B1), Russian (native)
 - ⚡ Fun fact: When I'm nostalgic, I play Heroes III 🧙🏻‍♂️
 
 <h3>Skills:</h3>
